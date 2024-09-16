@@ -1,2 +1,3 @@
 Django Project
 This project is built using the Django framework, a high-level Python web framework that promotes rapid development and clean, pragmatic design. It features a modular structure with reusable apps, and a secure, scalable architecture. The project includes models, views, and templates for efficient server-side rendering, user authentication, and database management. To get started, clone the repository, set up your environment, and run the server using python manage.py runserver. Detailed instructions for installation, usage, and deployment can be found in the documentation.
+Main.
